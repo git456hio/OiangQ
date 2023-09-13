@@ -2,7 +2,7 @@
     "SoltsGame": {
         "code": 200,
         "GameData": {
-            "Inapg": false,
+            "Inapg": true,
             "version": "1.0.0"
         }
     }
